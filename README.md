@@ -4,4 +4,4 @@ Monte Carlo framework to model market uncertainty and generate distributional ou
 ## Current Status : Where is the content?
  Undergoing minor updates to keep up with new NumPy patch (some old functions used here have been deprecated and removed)
 
-<h4>Update as of 07/02/2026 :</h4> DeprecationWarning Fixed, Finalising project.
+<h4>Update as of 07/02/2026 :</h4> DeprecationWarning Fixed, Finalising project...
